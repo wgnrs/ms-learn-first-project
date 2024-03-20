@@ -12,3 +12,4 @@ G:\Cursos\Microsoft Learn\CSharp Parte 2\Instalar e conmfigurar o VSCode\CsharpP
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Instalar e conmfigurar o VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Instalar e conmfigurar o VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Instalar e conmfigurar o VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Instalar e conmfigurar o VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
